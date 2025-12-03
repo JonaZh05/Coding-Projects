@@ -1,54 +1,51 @@
-# 👋 Hi, I'm Jonathan Zheng  
-### Python • Data Analysis • Jupyter Notebooks • Interactive Programming
-
-Welcome to my GitHub portfolio! This repository serves as an overview of the technical projects I’ve completed across economics, data analysis, and computational coursework. My work focuses on writing clean, understandable code while using data to answer meaningful questions.
+# 📁 Coding Projects
+Welcome to my collection of Python and data analysis projects. This repository showcases the academic and technical work I’ve completed across economics, data analytics, and interactive programming. Each project is structured, documented, and written to reflect clean coding practices.
 
 ---
 
-## 📁 Featured Projects
-
-### **📊 Survey of Professional Forecasters Project – Part 1**  
+## 📊 Survey of Professional Forecasters – Part 1  
+**Notebook:** [`Survey of Professional Forecasters Project.ipynb`](Survey%20of%20Professional%20Forecasters%20Project.ipynb)  
 A structured analysis exploring forecast distributions, probability modeling, and economic expectations.  
-**Tools:** Python, Pandas, NumPy, Jupyter Notebook
+**Tools:** Python, Pandas, NumPy  
 
 ---
 
-### **💹 Asset Pricing Project**  
-A notebook applying asset pricing fundamentals and testing relationships between risk and returns. Includes organized code blocks and markdown explanations.  
-**Tools:** Python, Jupyter Notebook
+## 💹 Asset Pricing / Data Analysis Project  
+**Notebook:** [`Data Analysis Project.ipynb`](Data%20Analysis%20Project.ipynb)  
+Explores foundational asset pricing concepts, risk–return relationships, and modeling through Python.  
+**Tools:** Python, Jupyter Notebook  
 
 ---
 
-### **🎮 Adventure Game – Interactive Python Program**  
-A text-based adventure game built with conditional logic and functions. Demonstrates clean control-flow design and interactive programming.  
-**Tools:** Python, Functions, Input Handling
+## 🎮 Adventure Game – Interactive Python Program  
+**Notebook:** [`Adventure Game – Interactive Python Program.ipynb`](Adventure%20Game%20%E2%80%93%20Interactive%20Python%20Program.ipynb)  
+A text-based adventure game demonstrating user input, control flow, and creative problem-solving through Python.  
+**Tools:** Python, Functions  
 
 ---
 
-### **🗂️ NYS Crime Clearance Investigation – DiDA 325 Final Project**  
-A data-driven analysis of statewide crime clearance outcomes. Includes data cleaning, summary tables, and visualizations supported by policy-oriented discussion.  
-**Tools:** Python, Pandas, Data Visualization
+## 🗂️ NYS Crime Clearance Investigation  
+**Folder:** [`NYS Crime Clearance Investigation`](NYS%20Crime%20Clearance%20Investigation/)  
+A data-driven project analyzing statewide crime clearance outcomes through visualization, structured cleaning, and narrative insights.  
+**Tools:** Python, Pandas, Matplotlib  
 
 ---
 
-### **🗳️ Voter Registration: California vs. Texas – Data Analysis Project**  
-A comparative study of voter registration patterns between California and Texas. Combines demographic analysis, visualization, and narrative insights.  
-**Tools:** Python, Pandas, Data Visualization
+## 🗳️ Voter Registration: California vs. Texas  
+**(Add this notebook once you upload it!)**  
+A comparative analysis exploring voter registration differences, demographic trends, and visual patterns between CA and TX.  
+**Tools:** Python, Pandas, Visualization  
 
 ---
 
-## 🔧 Skills & Tools  
+## 🧰 Skills & Tools  
 - **Languages:** Python, SQL (beginner)  
 - **Libraries:** Pandas, NumPy, Matplotlib  
 - **Tools:** Jupyter Notebook, Git/GitHub  
-- **Interests:** Data analysis, economic modeling, probability, and interactive programming  
+- **Focus Areas:** Data analysis, economics, modeling, workflow organization  
 
 ---
 
 ## 📬 Contact  
 **Email:** jzheng8@binghamton.edu  
-**LinkedIn:** linkedin.com/in/jonathan-zheng05  
 ---
-
-Thanks for checking out my work!  
-Feel free to explore the projects and reach out with any questions or collaboration ideas.
