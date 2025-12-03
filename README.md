@@ -25,14 +25,14 @@ A text-based adventure game demonstrating user input, control flow, and creative
 ---
 
 ## 🗂️ NYS Crime Clearance Investigation  
-**Folder:** [`NYS Crime Clearance Investigation`](https://github.com/JonaZh05/Coding-Projects/blob/97372db83460c080222369ffefcb665493e3336c/DiDA_325_Final_Project.ipynb)  
+**Notebook:** [`NYS Crime Clearance Investigation`](https://github.com/JonaZh05/Coding-Projects/blob/97372db83460c080222369ffefcb665493e3336c/DiDA_325_Final_Project.ipynb)  
 A data-driven project analyzing statewide crime clearance outcomes through visualization, structured cleaning, and narrative insights.  
 **Tools:** Python, Pandas, Matplotlib  
 
 ---
 
 ## 🗳️ Voter Registration: California vs. Texas  
-**(Add this notebook once you upload it!)**  
+**Notebook** [Voter Registration: California vs. Texas](https://github.com/JonaZh05/Coding-Projects/blob/6f03de6b07f633568a988472d78b0b82bce59fbf/Data%20Analysis%20Project.ipynb)
 A comparative analysis exploring voter registration differences, demographic trends, and visual patterns between CA and TX.  
 **Tools:** Python, Pandas, Visualization  
 
