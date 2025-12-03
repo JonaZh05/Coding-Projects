@@ -18,7 +18,7 @@ Explores foundational asset pricing concepts, risk–return relationships, and m
 ---
 
 ## 🎮 Adventure Game – Interactive Python Program  
-**Notebook:** [`Adventure Game – Interactive Python Program.ipynb`](Adventure%20Game%20%E2%80%93%20Interactive%20Python%20Program.ipynb)  
+**Notebook:** [`Adventure Game – Interactive Python Program.ipynb`](https://github.com/JonaZh05/Coding-Projects/blob/74c9464bf81743c661ac805357a31e88a1f813e7/%F0%9F%8E%AE%20Adventure%20Game%20%E2%80%93%20Interactive%20Python%20Program.ipynb)  
 A text-based adventure game demonstrating user input, control flow, and creative problem-solving through Python.  
 **Tools:** Python, Functions  
 
