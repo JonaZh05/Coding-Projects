@@ -25,7 +25,7 @@ A text-based adventure game demonstrating user input, control flow, and creative
 ---
 
 ## 🗂️ NYS Crime Clearance Investigation  
-**Folder:** [`NYS Crime Clearance Investigation`](NYS%20Crime%20Clearance%20Investigation/)  
+**Folder:** [`NYS Crime Clearance Investigation`](https://github.com/JonaZh05/Coding-Projects/blob/97372db83460c080222369ffefcb665493e3336c/DiDA_325_Final_Project.ipynb)  
 A data-driven project analyzing statewide crime clearance outcomes through visualization, structured cleaning, and narrative insights.  
 **Tools:** Python, Pandas, Matplotlib  
 
