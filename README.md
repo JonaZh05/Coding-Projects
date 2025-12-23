@@ -3,7 +3,7 @@ Welcome to my collection of Python and data analysis projects. This repository s
 
 ---
 ## 📊 Survey of Professional Forecasters – Final Project 
-**Notebook:** [`Survey of Professional Forecasters Project.ipynb`](Zheng_Jonathan (2).ipynb)  
+**Notebook:** [`Survey of Professional Forecasters Project.ipynb`](https://github.com/JonaZh05/Coding-Projects/blob/2a583b7c55e882e1785468cbb17629ab56bce880/Zheng_Jonathan%20(2).ipynb)  
 
 A structured analysis exploring forecast distributions, probability modeling, and economic expectations. 
 
