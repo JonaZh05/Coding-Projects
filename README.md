@@ -2,12 +2,12 @@
 Welcome to my collection of Python and data analysis projects. This repository showcases the academic and technical work I’ve completed across economics, data analytics, and interactive programming. Each project is structured, documented, and written to reflect clean coding practices.
 
 ---
-
-## 📊 Survey of Professional Forecasters – Part 1  
+## 📊 Survey of Professional Forecasters – Final Project 
 **Notebook:** [`Survey of Professional Forecasters Project.ipynb`](Survey%20of%20Professional%20Forecasters%20Project.ipynb)  
 
-A structured analysis exploring forecast distributions, probability modeling, and economic expectations.  
-**Tools:** Python, Pandas, NumPy  
+A structured analysis exploring forecast distributions, probability modeling, and economic expectations. 
+
+**Tools:** Python, Pandas, NumPy, Matplotlib
 
 ---
 
