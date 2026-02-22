@@ -2,7 +2,7 @@
 Welcome to my collection of Python and data analysis projects. This repository showcases the academic and technical work I’ve completed across economics, data analytics, and interactive programming. Each project is structured, documented, and written to reflect clean coding practices.
 
 ---
-## 📊 Survey of Professional Forecasters – Final Project 
+##  Survey of Professional Forecasters – Final Project 
 **Notebook:** [`Survey of Professional Forecasters Project.ipynb`](https://github.com/JonaZh05/Coding-Projects/blob/2a583b7c55e882e1785468cbb17629ab56bce880/Zheng_Jonathan%20(2).ipynb)  
 
 A structured analysis exploring forecast distributions, probability modeling, and economic expectations. 
@@ -11,7 +11,7 @@ A structured analysis exploring forecast distributions, probability modeling, an
 
 ---
 
-## 💹 Asset Pricing Project  
+##  Asset Pricing Project  
 **Notebook:** [`Asset Pricing Project.ipynb`](https://github.com/JonaZh05/Coding-Projects/blob/ad79d72be5d360462eba7eefa39fd2130e39c869/Project.ipynb) 
 
 Explores foundational asset pricing concepts, risk–return relationships, and modeling through Python.  
@@ -19,7 +19,7 @@ Explores foundational asset pricing concepts, risk–return relationships, and m
 
 ---
 
-## 🎮 Adventure Game – Interactive Python Program  
+##  Adventure Game – Interactive Python Program  
 **Notebook:** [`Adventure Game – Interactive Python Program.ipynb`](https://github.com/JonaZh05/Coding-Projects/blob/74c9464bf81743c661ac805357a31e88a1f813e7/%F0%9F%8E%AE%20Adventure%20Game%20%E2%80%93%20Interactive%20Python%20Program.ipynb)  
 
 A text-based adventure game demonstrating user input, control flow, and creative problem-solving through Python.  
@@ -27,7 +27,7 @@ A text-based adventure game demonstrating user input, control flow, and creative
 
 ---
 
-## 🗂️ NYS Crime Clearance Investigation  
+##  NYS Crime Clearance Investigation  
 **Notebook:** [`NYS Crime Clearance Investigation`](https://github.com/JonaZh05/Coding-Projects/blob/97372db83460c080222369ffefcb665493e3336c/DiDA_325_Final_Project.ipynb)  
 
 A data-driven project analyzing statewide crime clearance outcomes through visualization, structured cleaning, and narrative insights.  
@@ -35,7 +35,7 @@ A data-driven project analyzing statewide crime clearance outcomes through visua
 
 ---
 
-## 🗳️ Voter Registration: California vs. Texas  
+##  Voter Registration: California vs. Texas  
 **Notebook** [Voter Registration: California vs. Texas](https://github.com/JonaZh05/Coding-Projects/blob/6f03de6b07f633568a988472d78b0b82bce59fbf/Data%20Analysis%20Project.ipynb)
 
 A comparative analysis exploring voter registration differences, demographic trends, and visual patterns between CA and TX.  
@@ -43,7 +43,7 @@ A comparative analysis exploring voter registration differences, demographic tre
 
 ---
 
-## 🧰 Skills & Tools  
+##  Skills & Tools  
 - **Languages:** Python, SQL (beginner)  
 - **Libraries:** Pandas, NumPy, Matplotlib  
 - **Tools:** Jupyter Notebook, Git/GitHub  
@@ -51,7 +51,7 @@ A comparative analysis exploring voter registration differences, demographic tre
 
 ---
 
-## 📬 Contact  
+##  Contact  
 **Email:** jzheng8@binghamton.edu  
 **LinkedIn** [linkedin.com/in/jonathan-zheng05](https://www.linkedin.com/in/jonathan-zheng05/)
 ---
