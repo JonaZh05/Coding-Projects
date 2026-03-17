@@ -46,7 +46,7 @@ A comparative analysis exploring voter registration differences, demographic tre
 ##  Skills & Tools  
 - **Languages:** Python, SQL (beginner)  
 - **Libraries:** Pandas, NumPy, Matplotlib  
-- **Tools:** Jupyter Notebook, Git/GitHub  
+- **Tools:** Jupyter Notebook  
 - **Focus Areas:** Data analysis, economics, modeling, workflow organization  
 
 ---
